@@ -1,31 +1,32 @@
 # 👋 Olá, eu sou Gabriel Reis!
 
-🎓 Estudante de Tecnologia
-💻 Interessado em Desenvolvimento de Software, Web e Inteligência Artificial
-🚀 Construindo projetos para desenvolver minhas habilidades e meu portfólio profissional.
+💻 Técnico em Desenvolvimento de Sistemas
+🌐 Desenvolvimento Web | Inteligência Artificial | Software
+🚀 Desenvolvendo projetos e construindo meu portfólio em tecnologia
 
 ## 🛠️ Tecnologias
 
 * HTML & CSS
 * JavaScript
-* Git & GitHub
 * Python
 * SQL
+* Git & GitHub
 
-## 📚 Atualmente estudando
+## 📚 Conhecimentos
 
 * Desenvolvimento de Software
-* Programação
+* Desenvolvimento Web
 * Banco de Dados
+* APIs
 * Inteligência Artificial
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade de estágio na área de Tecnologia da Informação, com interesse em desenvolvimento de software.
+Conquistar minha primeira oportunidade de estágio em Tecnologia da Informação, com foco em desenvolvimento de software.
 
 ## 📂 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado em tecnologia.
+Projetos desenvolvidos durante minha formação e estudos em tecnologia.
 
 ---
 
