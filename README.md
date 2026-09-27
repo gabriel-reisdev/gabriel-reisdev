@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Gabriel Reis!
 
-💻 Técnico em Desenvolvimento de Sistemas
-🌐 Desenvolvimento Web | Inteligência Artificial | Software
+🎓 Técnico em Desenvolvimento de Sistemas — concluído
+📈 Técnico em Marketing
+🌐 Interesse em Desenvolvimento Web, Inteligência Artificial e Software
 🚀 Desenvolvendo projetos e construindo meu portfólio em tecnologia
 
 ## 🛠️ Tecnologias
@@ -19,10 +20,11 @@
 * Banco de Dados
 * APIs
 * Inteligência Artificial
+* Marketing e Negócios
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade de estágio em Tecnologia da Informação, com foco em desenvolvimento de software.
+Conquistar minha primeira oportunidade de estágio em Tecnologia da Informação, com foco em desenvolvimento de software, utilizando também meus conhecimentos em marketing e negócios.
 
 ## 📂 Projetos
 
