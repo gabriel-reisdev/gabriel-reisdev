@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel Reis!
 
-<!--
-**gabriel-reisdev/gabriel-reisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia
+💻 Interessado em Desenvolvimento de Software, Web e Inteligência Artificial
+🚀 Construindo projetos para desenvolver minhas habilidades e meu portfólio profissional.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+* Python
+* SQL
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento de Software
+* Programação
+* Banco de Dados
+* Inteligência Artificial
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de estágio na área de Tecnologia da Informação, com interesse em desenvolvimento de software.
+
+## 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado em tecnologia.
+
+---
+
+📫 **Contato:** LinkedIn em breve
